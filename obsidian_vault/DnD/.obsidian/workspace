@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/002-20220525-Island.md",
+            "file": "Sessions/003-20220608-After Ambush.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/002-20220525-Island.md",
+                "file": "Sessions/003-20220608-After Ambush.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3796664bc4e1e4c3",
   "lastOpenFiles": [
+    "Sessions/003-20220608-After Ambush.md",
+    "Sessions/004-20220622-Goblin Cave.md",
     "Sessions/002-20220525-Island.md",
+    "Templates/Session.md",
     "Sessions/001-20220518-Intro.md",
     "assets/002-2022-518-Intro.md",
-    "Sessions/003-20220608-After Ambush.md",
-    "Session.md",
     "Scotty Doesnt know/Untitled.md",
     "Characters.md",
     "Characters/Puss.md",
-    "Characters/Fiona.md",
-    "Characters/Aeyr.md"
+    "Characters/Fiona.md"
   ]
 }
