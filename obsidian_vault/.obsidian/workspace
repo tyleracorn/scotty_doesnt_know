@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "edf3f82c5147e466",
+    "type": "split",
+    "children": [
+      {
+        "id": "27f767273dbb6e25",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e31b0c84611df8c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74fe58e68245668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e3819b9539b67a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "91ac4f2466936bbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#BugBear",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b631c5221b2cfe08",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c868f5f4007bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6426ea5fcdc4a8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4bc01b6e60722fdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "27f767273dbb6e25",
+  "lastOpenFiles": [
+    "DnD/Sessions/004-20220622-Goblin Cave.md",
+    "DnD/Sessions/003-20220608-After_Ambush.md",
+    "DnD/World/People/Yesik.md",
+    "DnD/World/People/Gundrin Rockseaker.md",
+    "DnD/World/People/Clarg.md",
+    "DnD/World/People/Sildar.md",
+    "DnD/Templates/person.md",
+    "DnD/Templates/Session.md",
+    "DnD/World/Places/Wave_Echo_Cave.md",
+    "DnD/Sessions/002-20220525-Island.md"
+  ]
+}
