@@ -7,8 +7,12 @@
         "id": "27f767273dbb6e25",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DnD/World/Places/Wave_Echo_Cave.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DnD/World/Places/Wave_Echo_Cave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +100,15 @@
   },
   "active": "27f767273dbb6e25",
   "lastOpenFiles": [
-    "DnD/Sessions/004-20220622-Goblin Cave.md",
-    "DnD/Sessions/003-20220608-After_Ambush.md",
+    "DnD/World/Places/Wave_Echo_Cave.md",
+    "DnD/World/Places/Phandolin.md",
+    "DnD/World/Places/neverwinter.md",
+    "DnD/World/Places/Cragma.md",
+    "DnD/World/Places/balders_gate.md",
     "DnD/World/People/Yesik.md",
+    "DnD/World/People/Sildar.md",
     "DnD/World/People/Gundrin Rockseaker.md",
     "DnD/World/People/Clarg.md",
-    "DnD/World/People/Sildar.md",
-    "DnD/Templates/person.md",
-    "DnD/Templates/Session.md",
-    "DnD/World/Places/Wave_Echo_Cave.md",
-    "DnD/Sessions/002-20220525-Island.md"
+    "DnD/Templates/person.md"
   ]
 }

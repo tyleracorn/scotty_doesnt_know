@@ -1,11 +1,11 @@
 ---
 type: people
-world: "figure out"
+world: "Sword Coast"
 tags: sildar
 ---
 # Meta
 Race: 
-Job: 
+Job: Lords Aliance
 Boss:
 Companion: [[Gundrin Rockseaker]] 
 Status: 

@@ -1,10 +1,10 @@
 ---
 type: people
-world: "Sword Coast"
-tags: TBD
+world: "figure out"
+tags: Jedice
 ---
 # Meta
-Race: 
+Race: Human
 Job: 
 Boss:
 Companion:

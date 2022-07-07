@@ -1,6 +1,6 @@
 ---
 type: people
-world: "figure out"
+world: "Sword Coast"
 tags: clarg
 ---
 # Meta
