@@ -10,4 +10,4 @@ members: [[Sildar]]
 
 Friends/Ally: [[Gundrin Rockseaker]]
 
-Outposts: [[Phandolin]]
+Outposts: [[Phandalin]]

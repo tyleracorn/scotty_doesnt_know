@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/World/Places/Wave_Echo_Cave.md",
+            "file": "DnD/World/Places/Phandalin.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BugBear",
+                "query": "tag:#stone_hill",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/World/Places/Wave_Echo_Cave.md",
+                "file": "DnD/World/Places/Phandalin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "27f767273dbb6e25",
   "lastOpenFiles": [
-    "DnD/World/Places/Wave_Echo_Cave.md",
-    "DnD/World/Places/Phandolin.md",
-    "DnD/World/Places/neverwinter.md",
+    "DnD/World/Places/Phandalin.md",
+    "DnD/Sessions/006-20220713-phandalin.md",
+    "DnD/Sessions/005-20220706-Golbin_Cave_Fight.md",
+    "DnD/attachments/Phandalin.jpg",
     "DnD/World/Places/Cragma.md",
-    "DnD/World/Places/balders_gate.md",
-    "DnD/World/People/Yesik.md",
-    "DnD/World/People/Sildar.md",
-    "DnD/World/People/Gundrin Rockseaker.md",
+    "DnD/World/Places/Triadmore.md",
+    "DnD/Sessions/002-20220525-Island.md",
     "DnD/World/People/Clarg.md",
-    "DnD/Templates/person.md"
+    "DnD/Characters/Jedice.md",
+    "DnD/Characters/Fiona.md"
   ]
 }

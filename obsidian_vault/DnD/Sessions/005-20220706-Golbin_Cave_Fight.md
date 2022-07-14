@@ -7,6 +7,7 @@ tags: sildar, goblin_cave, clarg, cragma, jedice
 ---
 
 ## Summary
+We defeat [[Clarg]] and offer him a clean death for information. He says that the only name he will give us is [[Cragma]] which we don't know if it's a place or a person. We head to [[Phandalin]] and get a room at the stone_heaven ^summary
 
 ## Recap of Last Session
 ![](004-20220622-Goblin_Cave##^summary)
@@ -36,5 +37,5 @@ Current state is full hp (11)
 * We take a long rest 
 * We decide to head to Phandolin
 	* Sildar leaves us to report to the [[Lords Alliance]]
-	* We get a room at the stone_heaven
+	* We get a room at the #stone_hill
 		*  I spend some time working on mushroom poison and mushroom psychodelics
