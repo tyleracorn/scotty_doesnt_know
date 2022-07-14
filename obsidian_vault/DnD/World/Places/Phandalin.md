@@ -37,6 +37,7 @@ hafling merchant
 blacksmith: #branded_badger
 owner: female Dwarf #marth_knox
 also does leatherwork
+
 # Darin_cottage 
 #darin_cottage
 might have some high quality grain
